@@ -1,0 +1,40 @@
+body{
+	font-family: Verdana;
+	padding: 0 15px;
+	text-align: center;
+}
+header{
+	text-align: center;
+}
+a{
+	text-decoration: none;
+}
+p{
+	font-size: 18px;
+}
+table{
+	margin: 0 auto;
+}
+img{
+	border-radius: 15px;
+}
+tr{
+	height: 600px;
+	vertical-align: top;
+
+}
+div{
+	display: inline;
+	float: left;
+	width: 50%;
+
+}
+
+ul{
+	list-style: none;
+	padding: 0px;
+}
+li img{
+	width: 22px;
+	}
+
